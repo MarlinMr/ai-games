@@ -2,6 +2,8 @@
 
 A home for small browser games. The site is plain HTML and CSS, so there is no build step or package installation.
 
+**Play online:** <https://marlinmr.github.io/ai-games/>
+
 ## Preview locally
 
 From the repository root, run:
